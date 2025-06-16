@@ -1,2 +1,3 @@
-# AI-Career-Mentor-App
-A chat-based AI mentor that helps students and professionals choose or transition into careers based on their interests, strengths, market demand, and current trends.
+# AI Career Mentor
+
+An AI-powered CLI app that provides career guidance, resume feedback, and role suggestions based on user input.
